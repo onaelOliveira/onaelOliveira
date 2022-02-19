@@ -4,7 +4,7 @@
       Hello 
     </h1>
    <h5>
-     👩‍💻Graduação: Analise e Desenvolvimento de Sistemas
+     👩‍💻Graduando: Sistemas de Informação
    </h5>
   </p>
 <br>
