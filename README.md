@@ -2,12 +2,9 @@
 👩‍💻Graduando: Sistemas de Informação
 
 <div align="center">
-  <p>
   <a href="https://github.com/onaelOliveira">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=onaelOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaelOliveira&layout=compact&langs_count=7&theme=dracula"/>
-    </p>
-    
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=juliemoura&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliemoura&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nael-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
